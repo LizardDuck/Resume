@@ -1,0 +1,118 @@
+body,html {
+	width: 100%;
+	height: 100%;
+	font-family: "Montserrat", sans-serif;
+
+	background-color: #355c7d;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+
+	color: #f8B195;
+	/*background-color: #606C84;*/ 
+	border-radius: 400px;
+	text-align: center;
+}
+
+h3{
+	color: #C06c84;
+}
+
+.header {
+  padding: 30px 0;
+  background: #6c5b7B;
+  border-top: 10px solid #778492;
+}
+
+.header .profie-content .desc {
+	color: #6c5b7B;
+	font-weight: 400;
+	font-size: 24px;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+.job1{
+	color: #f8B195;
+}
+
+.job2{
+	color: #F67280;
+}
+
+.job3{
+	color: #C06C84;
+}
+
+/*==== Sections ======*/
+
+.sections-wrapper {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.section {
+	margin-bottom: 30px;
+}
+
+.section .section-inner {
+	background: #6c5b7B;
+	padding: 30px;
+}
+
+.latest {
+	background: #6c5b7B;
+	padding: 30px;
+}
+
+.section .heading{
+	margin-top: 0;
+	margin-bottom: 30px;
+	color: #f8B195;
+	font-size: 24px;
+}
+
+.links, .Skills{
+	background: #6c5b7B;
+	margin-top: 0;
+	margin-bottom: 30px;
+	color: #f8B195;
+	font-size: 24px;
+	padding: 30px;
+}
+
+.links h2 {
+	/*padding: 30px;*/
+}
+
+.latest .item {
+	margin-bottom:30px;
+}
+
+.latest .item .title {
+	font-size: 18px;
+	margin-top:0;
+}
+
+.latest .divider{
+	margin-bottom: 60px;
+}
+
+.latest .featured .title{
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+
+.latest .featured .summary {
+	margin-bottom: 30px;
+
+}
+
+p {
+	color:#F67280;
+}
+
